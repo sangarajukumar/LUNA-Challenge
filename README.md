@@ -51,3 +51,5 @@ mathematics, he is not scared by theory, but he is thoroughly practical when app
 it to computing challenges.
 
 Thanks to everyone.
+
+I hope everyone is safe.
